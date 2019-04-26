@@ -9,7 +9,6 @@ published: true
 published_date: 2018-09-10 08:00:00 -0700
 slug: hsts
 title: HSTS
-
 ---
 In any good heist movie, it's ultimately the little details that make the difference between prison and payday. Much the same could be said of web security: it's the small oversights that pose the most risk to our applications, as few of us will ever stand against DDOS attacks the size of which [recently hit GitHub](https://www.wired.com/story/github-ddos-memcached/){:target="_blank"}, just as most heists won't be conducted with grenades. They'll sneak in through the vents instead. 
 
