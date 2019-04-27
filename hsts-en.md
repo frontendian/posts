@@ -1,7 +1,7 @@
 ---
 author_name: Ryan Miller
 author_twitter: andryanmiller
-excerpt: In any good heist movie, it's ultimately the little details that make the difference between prison and payday. Much the same could be said of web security: it's the small oversights that pose the most risk to our applications, as few of us will ever stand against DDOS attacks the size of which recently hit GitHub, just as most heists won't be conducted with bazookas. They'll sneak in through the vents instead.
+excerpt: "In any good heist movie, it's ultimately the little details that make the difference between prison and payday. Much the same could be said of web security: it's the small oversights that pose the most risk to our applications, as few of us will ever stand against DDOS attacks the size of which recently hit GitHub, just as most heists won't be conducted with bazookas. They'll sneak in through the vents instead."
 hero: /public/svg/safe-cracking.svg
 language: en
 og_image: /public/img/hsts_og_image.png
