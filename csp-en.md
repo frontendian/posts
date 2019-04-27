@@ -1,12 +1,12 @@
----
-author_name: Ryan Miller
+--- 
+author_name: "Ryan Miller"
 author_twitter: andryanmiller
-excerpt: A good defensive strategy is multilayered. Whether it's the multifactor authentication system you use to log into GitHub, or the kill switch on Furiosa's war rig, having more than one safeguard against intrusion makes attacks substantially more difficult. The same is true for web security, and today's post is going to introduce you to a powerful tool you have to augment your website's security: content security policies, or CSPs.
+excerpt: "A good defensive strategy is multilayered. Whether it's the multifactor authentication system you use to log into GitHub, or the kill switch on Furiosa's war rig, having more than one safeguard against intrusion makes attacks substantially more difficult. The same is true for web security, and today's post is going to introduce you to a powerful tool you have to augment your website's security: content security policies, or CSPs."
 hero: /public/svg/helmet.svg
 language: en
 og_image: /public/img/csp_og_image.png
 published: true
-published_date: 2018-07-20 08:00:00 -0700
+published_date: 2018-07-20 08:00:00 -07:00
 slug: csp
 title: "Content Security Policies"
 ---
